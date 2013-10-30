@@ -1,6 +1,7 @@
-##sol-lewitt-processing
+sol-lewitt-processing
+=====================
 
-A collection of processing sketches inspired by the works of Sol LeWitt. These sketches are part of the course ["Eingabe, Ausgabe. Grundlagen der prozessorientierten Gestaltung"](https://incom.org/workspace/4693) by Monika Hoinkis     
+A collection of processing sketches inspired by the works of Sol LeWitt. These sketches are part of the course ["Eingabe, Ausgabe. Grundlagen der prozessorientierten Gestaltung"](https://incom.org/workspace/4693) by Monika Hoinkis  
 
 - [Lewitt overview](http://www.massmoca.org/lewitt/grid.php)  
 - [Sol LeWitt: Visual Concepts](http://radicalart.info/concept/LeWitt/index.html)  
