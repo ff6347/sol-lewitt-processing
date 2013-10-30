@@ -38,4 +38,5 @@ for (int y = 0; y < height; y += step) {
   fill(c);// set the color
   rect(0, y, width, step);// draw he rectangke
 }// end of y loop
+saveFrame("lewitt-422.png");
 

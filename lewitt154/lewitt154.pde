@@ -36,6 +36,6 @@ int y2 = height-gutter; // coordinate x2
  */
 line(x1, y1, x2, y2);
 line(x2, y1, x1, y2);
-
+saveFrame("lewitt-154.png");
 // we ae done
 

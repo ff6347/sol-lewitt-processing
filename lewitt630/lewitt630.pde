@@ -22,4 +22,5 @@ for (int x = 0; x < width;x = x + 90) {
   rect(x, 0, 45, height);
 } //  end of i loop
 
+saveFrame("lewitt-630.png");
 // we are done

@@ -21,6 +21,7 @@ void setup() {
   size(800, 450); // the canvas
   smooth(); // so ot looks smoother
   sys.draw(); // draw it
+  saveFrame("lewitt-797.png");
 }
 
 /**

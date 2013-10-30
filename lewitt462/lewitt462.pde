@@ -52,6 +52,6 @@ for (int i = 0; i < numberOfCircles;i++) {
     black = true;
   }
 } // end i loop
-
+saveFrame("lewitt-462.png");
 // We are outer here
 
