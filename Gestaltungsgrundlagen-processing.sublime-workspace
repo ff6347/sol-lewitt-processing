@@ -1,0 +1,1443 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"verte",
+				"vertex	vertex"
+			],
+			[
+				"max",
+				"maximum"
+			],
+			[
+				"step",
+				"stepmin"
+			],
+			[
+				"satm",
+				"satmax"
+			],
+			[
+				"sat",
+				"satmin"
+			],
+			[
+				"hue",
+				"huerange"
+			],
+			[
+				"my",
+				"myDoc"
+			],
+			[
+				"the",
+				"the_query_name"
+			],
+			[
+				"wbt",
+				"WBT202"
+			],
+			[
+				"Ver",
+				"Vereinbarung"
+			],
+			[
+				"im",
+				"import"
+			],
+			[
+				"val",
+				"vals"
+			],
+			[
+				"w",
+				"writepdf"
+			],
+			[
+				"proce",
+				"process_images"
+			],
+			[
+				"set",
+				"set_imagedata"
+			],
+			[
+				"obj",
+				"objGroup"
+			],
+			[
+				"In",
+				"Info"
+			],
+			[
+				"image",
+				"imagedata"
+			],
+			[
+				"curr",
+				"current_import_id"
+			],
+			[
+				"import",
+				"importid"
+			],
+			[
+				"labe",
+				"label_str"
+			],
+			[
+				"one",
+				"one_item"
+			],
+			[
+				"myIm",
+				"myImgFrame"
+			],
+			[
+				"par",
+				"parStyles"
+			],
+			[
+				"video",
+				"videolist"
+			],
+			[
+				"mark",
+				"markdownify"
+			],
+			[
+				"media",
+				"@media	@media ${1:screen} {\n	${0}\n}"
+			],
+			[
+				"pro",
+				"processor"
+			],
+			[
+				"ho",
+				"hover"
+			],
+			[
+				"paddin",
+				"padding-bottom"
+			],
+			[
+				"padd",
+				"padding-left"
+			],
+			[
+				"text",
+				"text-decoration"
+			],
+			[
+				"ext",
+				"extrude"
+			],
+			[
+				"iconbutton",
+				"iconbutton_shadow"
+			],
+			[
+				"aut",
+				"auto_color"
+			],
+			[
+				"va",
+				"value"
+			],
+			[
+				"icon",
+				"iconbutton_buzzgen"
+			],
+			[
+				"ima",
+				"images_binary"
+			],
+			[
+				"pu",
+				"push"
+			],
+			[
+				"hlp",
+				"hlpStrings"
+			],
+			[
+				"hel",
+				"helpTip"
+			],
+			[
+				"butt",
+				"button_run_main_script"
+			],
+			[
+				"icn",
+				"iconbutton_buzzgen"
+			],
+			[
+				"ic",
+				"iconfiles"
+			],
+			[
+				"cogw",
+				"cogwheels"
+			],
+			[
+				"buzz",
+				"buzzgen"
+			],
+			[
+				"swissd_",
+				"swissd_meta"
+			],
+			[
+				"ad",
+				"adj"
+			],
+			[
+				"bg_",
+				"bg_layer"
+			],
+			[
+				"textfie",
+				"textfield_etext"
+			],
+			[
+				"swiss",
+				"swissd_meta"
+			],
+			[
+				"img",
+				"imgComp"
+			],
+			[
+				"lay",
+				"layers"
+			],
+			[
+				"mpo",
+				"mpo2ae"
+			],
+			[
+				"cur",
+				"curComp"
+			],
+			[
+				"com",
+				"comp"
+			],
+			[
+				"c",
+				"comp"
+			],
+			[
+				"pixel",
+				"pixelAspect"
+			],
+			[
+				"frame",
+				"frameRate"
+			],
+			[
+				"sett",
+				"settings"
+			],
+			[
+				"art",
+				"articles"
+			],
+			[
+				"artn",
+				"artnr"
+			],
+			[
+				"end",
+				"endUndoGroup"
+			],
+			[
+				"toS",
+				"toSource"
+			],
+			[
+				"foo",
+				"footage"
+			],
+			[
+				"arti",
+				"articles"
+			],
+			[
+				"artf",
+				"artfootage"
+			],
+			[
+				"full",
+				"fullName"
+			],
+			[
+				"pare",
+				"parentFolder"
+			],
+			[
+				"exist",
+				"exists"
+			],
+			[
+				"proj",
+				"project_folder_on_drive"
+			],
+			[
+				"tem",
+				"tempstr"
+			],
+			[
+				"artikelBe",
+				"artikelBeschreibung"
+			],
+			[
+				"artikelB",
+				"artikelBezeichnung"
+			],
+			[
+				"tex",
+				"textPlatzieren"
+			],
+			[
+				"cmt",
+				"cmt line	comment line"
+			],
+			[
+				"ar",
+				"article"
+			],
+			[
+				"wri",
+				"write"
+			],
+			[
+				"all",
+				"allfolders"
+			],
+			[
+				"len",
+				"length"
+			],
+			[
+				"json",
+				"JSON"
+			],
+			[
+				"has",
+				"hasOwnProperty"
+			],
+			[
+				"path",
+				"patcheddoc"
+			],
+			[
+				"t",
+				"toml"
+			],
+			[
+				"tom",
+				"toml"
+			],
+			[
+				"toml",
+				"tomltxt"
+			],
+			[
+				"read",
+				"readfile"
+			],
+			[
+				"file",
+				"file_to_read"
+			],
+			[
+				"al",
+				"alert"
+			],
+			[
+				"alt",
+				"altpressed"
+			],
+			[
+				"j",
+				"json"
+			],
+			[
+				"bui",
+				"build_comps"
+			],
+			[
+				"imp",
+				"import_data"
+			],
+			[
+				"char",
+				"character_set"
+			],
+			[
+				"h",
+				"hershey"
+			],
+			[
+				"on",
+				"onClick"
+			],
+			[
+				"retur",
+				"return_bttn"
+			],
+			[
+				"ch",
+				"chCount"
+			],
+			[
+				"vert",
+				"vertical-align"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"font",
+				"font-family"
+			],
+			[
+				"fon",
+				"font-weight"
+			],
+			[
+				"foc",
+				"focus"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"dis",
+				"display"
+			],
+			[
+				"vis",
+				"visibility"
+			],
+			[
+				"sideba",
+				"sidebar1"
+			],
+			[
+				"res",
+				"res"
+			],
+			[
+				"re",
+				"redis"
+			],
+			[
+				"cons",
+				"console.log();"
+			],
+			[
+				"padding",
+				"padding-top"
+			],
+			[
+				"doctype",
+				"doctype	DOCTYPE HTML"
+			],
+			[
+				"out",
+				"outname"
+			],
+			[
+				"sele",
+				"selection"
+			],
+			[
+				"writ",
+				"write_head"
+			],
+			[
+				"se",
+				"selection"
+			],
+			[
+				"SO",
+				"SOM_meta"
+			],
+			[
+				"sel",
+				"selectedTemplate"
+			],
+			[
+				"set_",
+				"set_templates_button"
+			],
+			[
+				"outp",
+				"outputTemplates"
+			],
+			[
+				"te",
+				"text"
+			],
+			[
+				"ou",
+				"outname"
+			],
+			[
+				"outn",
+				"outname_etxt"
+			],
+			[
+				"dr",
+				"ddlStrings"
+			],
+			[
+				"test",
+				"testOM"
+			],
+			[
+				"get_",
+				"get_templates"
+			],
+			[
+				"remo",
+				"remove"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 227.0,
+		"selected_items":
+		[
+			[
+				"lowe",
+				"Convert Case: Lower Case"
+			],
+			[
+				"mar",
+				"Marked"
+			],
+			[
+				"mark",
+				"Set Syntax: Markdown"
+			],
+			[
+				"goll",
+				"Snippet: enclose for gollum / pygments syntax highlite js"
+			],
+			[
+				"java",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"ex",
+				"Set Syntax: ExtendScript"
+			],
+			[
+				"ja",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"exten",
+				"Set Syntax: ExtendScript"
+			],
+			[
+				"gist",
+				"Gist: Create Private Gist"
+			],
+			[
+				"mit",
+				"Licence Snippet: MIT"
+			],
+			[
+				"dis",
+				"Package Control: Disable Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"ma",
+				"Marked"
+			],
+			[
+				"key",
+				"FindKeyConflicts: (Direct) Conflicts to Buffer"
+			],
+			[
+				"ruby",
+				"Set Syntax: Ruby"
+			],
+			[
+				"ru",
+				"Set Syntax: Ruby"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"merge",
+				"Sublimerge: Compare to View..."
+			],
+			[
+				"file",
+				"FileDiffs: Menu"
+			],
+			[
+				"enable",
+				"Package Control: Enable Package"
+			],
+			[
+				"rub",
+				"Set Syntax: Ruby"
+			],
+			[
+				"githu",
+				"Github: Blame"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Package Control: Enable Package"
+			],
+			[
+				"previe",
+				"GitHub Flavored Markdown: Preview"
+			],
+			[
+				"rem",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"disa",
+				"Package Control: Disable Package"
+			],
+			[
+				"m",
+				"Set Syntax: Markdown"
+			],
+			[
+				"pl",
+				"Set Syntax: Plain Text"
+			],
+			[
+				"space",
+				"Indentation: Convert to Spaces"
+			],
+			[
+				"pla",
+				"Set Syntax: Plain Text"
+			],
+			[
+				"spa",
+				"Indentation: Convert to Spaces"
+			],
+			[
+				"captur",
+				"Snippet: ftb enclose in jekyll capture"
+			],
+			[
+				"spaces",
+				"Indentation: Convert to Spaces"
+			],
+			[
+				"git commit",
+				"Git: Commit"
+			],
+			[
+				"fileD",
+				"FileDiffs: Menu"
+			],
+			[
+				"diff",
+				"Git: Diff Current File"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"remov",
+				"Package Control: Remove Package"
+			],
+			[
+				"rea",
+				"ReadmePlease"
+			],
+			[
+				"prett",
+				"Pretty JSON: Reformat (Pretty Print) JSON"
+			],
+			[
+				"json",
+				"Set Syntax: JSON"
+			],
+			[
+				"spac",
+				"Indentation: Convert to Spaces"
+			],
+			[
+				"tab",
+				"Indentation: Convert to Tabs"
+			],
+			[
+				"re",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"rein",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"inde",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"swap",
+				"Bracket Highlighter: Swap Quotes"
+			],
+			[
+				"yaml",
+				"Set Syntax: YAML"
+			],
+			[
+				"ya",
+				"Set Syntax: YAML"
+			],
+			[
+				"upda",
+				"Package Control: Upgrade/Overwrite All Packages"
+			],
+			[
+				"jav",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"pupp",
+				"Set Syntax: Puppet"
+			],
+			[
+				"Pla",
+				"Set Syntax: Plain Text"
+			],
+			[
+				"js",
+				"Set Syntax: JSON"
+			],
+			[
+				"MI",
+				"Snippet: MIT JSX License Code"
+			],
+			[
+				"pad",
+				"Pad: Add Padding to Line or Selection"
+			],
+			[
+				"upp",
+				"Convert Case: Upper Case"
+			],
+			[
+				"tabs",
+				"Indentation: Convert to Tabs"
+			],
+			[
+				"less",
+				"Set Syntax: LESS"
+			],
+			[
+				"scri",
+				"Snippet: HTML - Script"
+			],
+			[
+				"jq",
+				"Snippet: jQuery(document).ready"
+			],
+			[
+				"styl",
+				"Snippet: HTML - Stylesheet link"
+			],
+			[
+				"meta",
+				"Snippet: HTML - Meta tags"
+			],
+			[
+				"togg",
+				"Toggle Comment"
+			],
+			[
+				"comm",
+				"Toggle Comment"
+			],
+			[
+				"licen",
+				"Snippet: MIT MD License Code"
+			],
+			[
+				"commit",
+				"Git: Quick Commit"
+			],
+			[
+				"cmt",
+				"Snippet: comment line with sel"
+			],
+			[
+				"insert",
+				"Gist: Insert Gist"
+			],
+			[
+				"Mit",
+				"Snippet: MIT MD License Code"
+			],
+			[
+				"enclose",
+				"Snippet: ftb enclose comment inline"
+			],
+			[
+				"MIT",
+				"Snippet: MIT JSX License Code"
+			],
+			[
+				"with sel",
+				"Snippet: comment line with sel"
+			],
+			[
+				"cmt line",
+				"Snippet: comment line with sel"
+			],
+			[
+				"line",
+				"Snippet: comment line with sel"
+			],
+			[
+				"comment",
+				"Snippet: ftb enclose comment inline"
+			],
+			[
+				"disabl",
+				"Package Control: Disable Package"
+			],
+			[
+				"colo",
+				"Color picker"
+			],
+			[
+				"color",
+				"Color picker"
+			],
+			[
+				"/**",
+				"Snippet: enclose in comment /* */"
+			],
+			[
+				"commen",
+				"Snippet: comment line"
+			],
+			[
+				"tick",
+				"Snippet: ftb enclose in ticks md"
+			],
+			[
+				"inse",
+				"Gist: Insert Gist"
+			],
+			[
+				"ent",
+				"HTML: Encode Special Characters"
+			],
+			[
+				"commi",
+				"Git: Commit"
+			],
+			[
+				"gi",
+				"Gist: Insert Gist"
+			],
+			[
+				"disc",
+				"Package Control: Discover Packages"
+			],
+			[
+				"inser",
+				"Gist: Insert Gist"
+			],
+			[
+				"spec",
+				"HTML: Encode Special Characters"
+			],
+			[
+				"specia",
+				"HTML: Encode Special Characters"
+			],
+			[
+				"sp",
+				"HTML: Encode Special Characters"
+			],
+			[
+				"spe",
+				"HTML: Encode Special Characters"
+			],
+			[
+				"speci",
+				"HTML: Encode Special Characters"
+			],
+			[
+				"je",
+				"Snippet: ftb enclose jekyll comment"
+			],
+			[
+				"gol",
+				"Snippet: enclose for gollum / pygments syntax highlite js"
+			],
+			[
+				"gis",
+				"Gist: Insert Gist"
+			],
+			[
+				"ti",
+				"Snippet: ftb enclose in ticks md"
+			],
+			[
+				"jva",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"go",
+				"Snippet: enclose for gollum / pygments syntax highlite js"
+			],
+			[
+				"markd",
+				"Marked"
+			],
+			[
+				"tic",
+				"Snippet: ftb enclose in ticks md"
+			],
+			[
+				"pyg",
+				"Snippet: enclose for gollum / pygments syntax highlite js"
+			],
+			[
+				"enclo",
+				"Snippet: ftb jekyll enclose in highlite js inline"
+			],
+			[
+				"ticks",
+				"Snippet: ftb enclose in ticks md"
+			],
+			[
+				"/*",
+				"Snippet: ftb enclose in /* */ inline"
+			],
+			[
+				"xml",
+				"Set Syntax: XML"
+			],
+			[
+				"html",
+				"Set Syntax: HTML"
+			],
+			[
+				"add",
+				"Package Control: Add Repository"
+			],
+			[
+				"comme",
+				"Snippet: ftb enclose jekyll comment"
+			],
+			[
+				"previ",
+				"Markdown Preview: current file in browser"
+			],
+			[
+				"pre",
+				"HTMLPrettify: Prettify"
+			],
+			[
+				"prev",
+				"Markdown Preview: current file in browser"
+			],
+			[
+				"preview",
+				"Markdown Preview: current file in browser"
+			],
+			[
+				"ftb",
+				"Snippet: ftb fabiantheblind"
+			],
+			[
+				"disco",
+				"Package Control: Discover Packages"
+			],
+			[
+				"insa",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 489.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/fabiantheblind/Dropbox/fhp/GestaltungsgrundlagenEinfuehrung/processing/lewitt01/lewitt01.pde",
+		"/Users/fabiantheblind/Dropbox/fhp/GestaltungsgrundlagenEinfuehrung/processing/lewitt02/lewitt02.pde",
+		"/Users/fabiantheblind/Dropbox/fhp/GestaltungsgrundlagenEinfuehrung/processing/lewitt02",
+		"/Users/fabiantheblind/Dropbox/fhp/Physical Interaction Design/notes-physical-interaction-design.md",
+		"/Users/fabiantheblind/Dropbox/fhp/notes-physical-interaction-design.md",
+		"/Users/fabiantheblind/Desktop/notes-physical-interaction-design.md",
+		"/Users/fabiantheblind/Dropbox/fhp/LW126-Werkstatt/AirportExtremebaseStation/How-To-Use-Old-Airport-Extreme-Stations.md",
+		"/Users/fabiantheblind/Dropbox/projects/anschlaege/ID/K_PH_#2_Okt-Dez_Kalendarium Folder/Instructions.txt",
+		"/Applications/Adobe InDesign CS5.5/Scripts/Scripts Panel/anschlaege/simple-find-change-using-fc-queries.jsx",
+		"/Users/fabiantheblind/Desktop/extendscript.wiki/simple-find-and-change-grep-with-fc-query.md",
+		"/Applications/Adobe InDesign CS5.5/Scripts/Scripts Panel/anschlaege/simple-find-change.jsx",
+		"/Applications/Adobe InDesign CS5.5/Scripts/Scripts Panel/testscript.jsx",
+		"/Users/fabiantheblind/Dropbox/fhp/GestaltungsgrundlagenEinfuehrung/location-data/6949975/wbt-202.pl",
+		"/Users/fabiantheblind/Library/Caches/Cleanup At Startup/Transmit/0E7451A7-C085-41AE-8ACF-F3BB72292DEB/index2.html",
+		"/Users/fabiantheblind/Dropbox/projects/anschlaege/README.md",
+		"/Users/fabiantheblind/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/Users/fabiantheblind/Library/Application Support/Sublime Text 2/Packages/User/Gist.sublime-settings",
+		"/Users/fabiantheblind/Dropbox/fhp/GestaltungsgrundlagenEinfuehrung/location-data/openpaths_simple_json/openpaths_simple_json.pde",
+		"/Users/fabiantheblind/Dropbox/fhp/GestaltungsgrundlagenEinfuehrung/.gitignore",
+		"/Users/fabiantheblind/Dropbox/fhp/GestaltungsgrundlagenEinfuehrung/location-data/openpaths_simple_json/web-export/index.html",
+		"/Users/fabiantheblind/Dropbox/fhp/GestaltungsgrundlagenEinfuehrung/location-data/openpaths/openpaths.pde",
+		"/opt/cornerstone-2.0.0/examples/JavaScript/JavaScriptWidget/JavaScriptWidget.js",
+		"/Users/fabiantheblind/Dropbox/fhp/GestaltungsgrundlagenEinfuehrung/multitouch/multitouch-cell/MultitouchCell.README.md",
+		"/Users/fabiantheblind/Dropbox/fhp/LW126-Werkstatt/DosAndDonts.md",
+		"/Users/fabiantheblind/Library/Application Support/Sublime Text 2/Packages/User/SideBarEnhancements/Open With/Side Bar.sublime-menu",
+		"/Users/fabiantheblind/Library/Application Support/Sublime Text 2/Packages/Marked.app Menu/marked.py",
+		"/Users/fabiantheblind/Library/Application Support/Sublime Text 2/Packages/Marked.app Menu/Default.sublime-commands",
+		"/Users/fabiantheblind/Google Drive/FHP/LW126-Werkstatt/LW126.sublime-project",
+		"/Users/fabiantheblind/Google Drive/FHP/GestaltungsgrundlagenEinfuehrung/github.php",
+		"/Users/fabiantheblind/Google Drive/FHP/GestaltungsgrundlagenEinfuehrung/_config.yml",
+		"/Users/fabiantheblind/Library/Application Support/Sublime Text 2/Packages/User/Markdown.sublime-settings",
+		"/Users/fabiantheblind/Library/Application Support/Sublime Text 2/Packages/User/Default (OSX).sublime-keymap",
+		"/Users/fabiantheblind/Library/Application Support/Sublime Text 2/Packages/Default/Default (OSX).sublime-keymap",
+		"/Users/fabiantheblind/Google Drive/FHP/GestaltungsgrundlagenEinfuehrung/README.md",
+		"/Users/fabiantheblind/Google Drive/FHP/temp/yeswejekyll/Rakefile",
+		"/Users/fabiantheblind/Google Drive/FHP/GestaltungsgrundlagenEinfuehrung/workfiles/Kursstruktur_basicsWS1314.csv",
+		"/Users/fabiantheblind/Documents/FHP/FHPInterfaceServer/gitlab/devenvio/gitlab-vagrant-vm/Vagrantfile",
+		"/Users/fabiantheblind/Documents/FHP/FHPInterfaceServer/user.txt",
+		"/Users/fabiantheblind/Desktop/maps.info.txt",
+		"/Users/fabiantheblind/Google Drive/FHP/Organisation/Werkstatt/ausleihe.md",
+		"/Users/fabiantheblind/.bash_profile",
+		"/Users/fabiantheblind/Google Drive/FHP/Organisation/2013-09-11-Meeting-things-to-ask_merge.md",
+		"/Users/fabiantheblind/Google Drive/FHP/Organisation/2013-09-11-Meeting-things-to-ask.md",
+		"/Users/fabiantheblind/Google Drive/FHP/2013-09-11-Meeting-things-to-ask.md",
+		"/Users/fabiantheblind/Documents/FHP/FHPInterfaceServer/fhp-server-vagrant/Vagrantfile",
+		"/Users/fabiantheblind/Documents/FHP/fhp-server-vagrant/Vagrantfile",
+		"/Users/fabiantheblind/Google Drive/FHP/2013-09-11-Meeting-things-to-ask.txt",
+		"/Users/fabiantheblind/Documents/Arduino/shiftout_mulitplexing/shiftout_mulitplexing.ino",
+		"/Users/fabiantheblind/Documents/vagrant-one/README.md",
+		"/Users/fabiantheblind/Desktop/gpxreading/gpxreading.pde",
+		"/Applications/Adobe InDesign CC/Scripts/Scripts Panel/mpo-id-tools/MPO-Importer.jsx",
+		"/Users/fabiantheblind/Documents/projects/JM/jm-2014/workspace/JustDrums_S134_PercussionSonor_komplett_09101119.xml",
+		"/Users/fabiantheblind/Desktop/raspberry pi/install",
+		"/Users/fabiantheblind/Library/Application Support/Sublime Text 2/Packages/MarkdownEditing/Markdown.sublime-settings",
+		"/Users/fabiantheblind/Desktop/things-to-ask.md",
+		"/Users/fabiantheblind/Documents/FHP/MultitouchCell/multitouch_cell_info.txt",
+		"/Users/fabiantheblind/Dropbox/Untitled.md",
+		"/Users/fabiantheblind/Documents/FHP/Daten Von Marcus/physical-elab/Physical/physical-computing.sql",
+		"/Applications/Adobe InDesign CC/Scripts/Scripts Panel/mpo-id-tools/meta/processXML_v02.jsx",
+		"/Applications/Adobe InDesign CC/Scripts/Scripts Panel/mpo-id-tools/meta/Info.jsx",
+		"/Users/fabiantheblind/Dropbox/.dropbox.cache/2013-07-23/vimeo (deleted 8a8fa57ba9766575a9f6e9861e8ca4ab).txt",
+		"/Users/fabiantheblind/Sites/fabiantheblind.github.com/assets/less/main.less",
+		"/Applications/Adobe InDesign CS6/Scripts/Scripts Panel/IDSnippets/par styles/parstylesFromJson.jsx",
+		"/Applications/Adobe InDesign CS6/Scripts/Scripts Panel/IDSnippets/xtract/extractImages_fromText.jsx",
+		"/Users/fabiantheblind/Sites/fabiantheblind.github.com/locations.html",
+		"/Users/fabiantheblind/Sites/fabiantheblind.github.com/index.html",
+		"/Users/fabiantheblind/Sites/fabiantheblind.github.com/assets/less/animate.less",
+		"/Users/fabiantheblind/Sites/fabiantheblind.github.com/assets/js/jquery.img-inset-shadow.js",
+		"/Users/fabiantheblind/Sites/fabiantheblind.github.com/_includes/geo-vis.html",
+		"/Users/fabiantheblind/Sites/fabiantheblind.github.com/_layouts/newdefault.html",
+		"/Users/fabiantheblind/Sites/fabiantheblind.github.com/_includes/miscellaneous.html",
+		"/Users/fabiantheblind/Library/Application Support/Sublime Text 2/Packages/User/ftb-sublime-package/ftb enclose in jekyll comment.sublime-snippet",
+		"/Users/fabiantheblind/Sites/fabiantheblind.github.com/codinggraphics.html",
+		"/Users/fabiantheblind/Sites/fabiantheblind.github.com/aemap.html",
+		"/Users/fabiantheblind/Library/Application Support/Sublime Text 2/Packages/User/ftb-sublime-package/ftb enclose in jekyll md capture.sublime-snippet",
+		"/Users/fabiantheblind/Sites/fabiantheblind.github.com/assets/css/main.css",
+		"/Users/fabiantheblind/Sites/fabiantheblind.github.com/_includes/welcome.html",
+		"/Users/fabiantheblind/Sites/fabiantheblind.github.com/assets/js/main.js",
+		"/Users/fabiantheblind/Sites/fabiantheblind.github.com/_includes/typographix.html",
+		"/Users/fabiantheblind/Sites/fabiantheblind.github.com/misc.html",
+		"/Users/fabiantheblind/Sites/fabiantheblind.github.com/_includes/master-footer.html",
+		"/Users/fabiantheblind/Documents/projects/HersheyFonts/.git/config",
+		"/Users/fabiantheblind/Sites/fabiantheblind.github.com/_includes/coding-description.md",
+		"/Users/fabiantheblind/Documents/projects/swissd-for-ae/swissd-for-ae-dev/swissd.jsx",
+		"/Users/fabiantheblind/Documents/projects/HersheyFonts/Monoline Text.jsx",
+		"/Users/fabiantheblind/Dropbox/bts.txt",
+		"/Users/fabiantheblind/Documents/projects/mpo-to-ae/mpo-to-ae.jsx",
+		"/Users/fabiantheblind/Documents/projects/elementary-and-locations/depth-sorting-outer-space/depthsorting-outerspace-script.md",
+		"/Users/fabiantheblind/Desktop/test.txt",
+		"/Users/fabiantheblind/Library/Application Support/Sublime Text 2/Packages/FileDiffs/README.md",
+		"/Users/fabiantheblind/Library/Application Support/Sublime Text 2/Packages/jQuery/README.md",
+		"/Users/fabiantheblind/Library/Application Support/Sublime Text 2/Packages/User/Plain text.sublime-settings",
+		"/Users/fabiantheblind/Documents/projects/debugging-ae-scripts/ErrorHandling.jsx",
+		"/Users/fabiantheblind/Documents/projects/AEMap/Dev-AEMap/AEMap.jsx",
+		"/Users/fabiantheblind/Documents/projects/render-tools/Render-Queue-Helper.jsx",
+		"/Users/fabiantheblind/Documents/projects/mpo-to-ae/libs/jsondiffpatch.js",
+		"/Users/fabiantheblind/Documents/projects/mpo-to-ae/justdj_s241_intro_komplett_03031226.json",
+		"/Users/fabiantheblind/Documents/projects/mpo-to-ae/project.toml",
+		"/Users/fabiantheblind/Documents/projects/Locations/Locations-Dev/locations.jsx",
+		"/Users/fabiantheblind/Library/Application Support/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/Users/fabiantheblind/Documents/projects/Locations/Locations-Dev/Locations.jsx",
+		"/Users/fabiantheblind/Documents/projects/mpo-to-ae/jsonpatch.js",
+		"/Users/fabiantheblind/Documents/projects/mpo-to-ae/toml.js",
+		"/Users/fabiantheblind/Documents/projects/mpo-to-ae/project.toml.yaml",
+		"/Users/fabiantheblind/Desktop/raspberry pi/pi-puppet/manifests/config.pp",
+		"/Users/fabiantheblind/Desktop/raspberry pi/pi-puppet/puppet.conf",
+		"/Users/fabiantheblind/Desktop/raspberry pi/Raspberry-PI-SD-Installer-OS-X/README.md",
+		"/Users/fabiantheblind/Documents/Processing/Hershey/data/LICENSE.hershey.txt",
+		"/Users/fabiantheblind/Documents/Processing/Hershey/README.md",
+		"/Users/fabiantheblind/Documents/Processing/Hershey/data/astrology.jhf",
+		"/Users/fabiantheblind/Documents/Processing/Hershey/data/futuram.jhf",
+		"/Users/fabiantheblind/Documents/Processing/Hershey/data/gothgbt.jhf",
+		"/Users/fabiantheblind/Documents/Processing/Hershey/data/gothgrt.jhf",
+		"/Users/fabiantheblind/Documents/Processing/Hershey/data/gothicger.jhf",
+		"/Users/fabiantheblind/Documents/Processing/Hershey/data/gothicita.jhf",
+		"/Users/fabiantheblind/Documents/Processing/Hershey/data/greek.jhf",
+		"/Users/fabiantheblind/Documents/Processing/Hershey/data/japanese.jhf",
+		"/Users/fabiantheblind/Documents/Processing/Hershey/data/mathlow.jhf",
+		"/Users/fabiantheblind/Documents/Processing/Hershey/data/mathupp.jhf",
+		"/Users/fabiantheblind/Documents/Processing/Hershey/data/meteorology.jhf",
+		"/Users/fabiantheblind/Documents/Processing/Hershey/data/music.jhf",
+		"/Users/fabiantheblind/Documents/Processing/Hershey/data/timesg.jhf",
+		"/Users/fabiantheblind/Documents/Processing/Hershey/data/timesi.jhf",
+		"/Users/fabiantheblind/Documents/Processing/Hershey/data/timesib.jhf",
+		"/Users/fabiantheblind/Documents/Processing/Hershey/data/timesr.jhf",
+		"/Users/fabiantheblind/Documents/Processing/Hershey/data/timesrb.jhf",
+		"/Users/fabiantheblind/Documents/Processing/Hershey/data/markers.jhf",
+		"/Users/fabiantheblind/Documents/Processing/Hershey/data/gothiceng.jhf"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"/Users/fabiantheblind/Documents/Processing/Hershey/data,/Applications/Adobe InDesign CC/Scripts/Scripts Panel/mpo-id-tools",
+			"/Users/fabiantheblind/Documents/Processing/Hershey/data",
+			"/Users/fabiantheblind/Documents/projects/naok/wp/wp-content/themes/motrton-one"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			",",
+			"*",
+			",",
+			"-",
+			" ",
+			"-",
+			"eastlon",
+			"northlat",
+			"westlon",
+			"westlon ",
+			" westlon",
+			"world",
+			",",
+			"//",
+			",",
+			"var",
+			"O",
+			"ü",
+			");> ",
+			"Hands on",
+			"    ",
+			"(###.*?\\d )(.*?\\n)",
+			"super+alt+f",
+			"replace",
+			"##",
+			" -- ",
+			"^()\\t",
+			" ",
+			"023758",
+			"215657",
+			"monika",
+			"Monika",
+			"hoin",
+			"\"",
+			"022097",
+			"prcs_writeData",
+			"022095",
+			">",
+			"prcs_sortInGroupByPriority",
+			"alert",
+			"2013",
+			"myRuleSet",
+			"elements",
+			"myDoc.",
+			" != ",
+			"!= false",
+			"new Array;",
+			"new Array",
+			"==",
+			"new Object()",
+			"alert",
+			"prcsXMLv02_placeData",
+			"prcs_getGroupData",
+			"getGroupDatav02",
+			"prcs_getGroupDatav",
+			"prcs_getGroupDatav02",
+			"parStyles",
+			"i",
+			".",
+			"theDoc.paragraphStyles",
+			"mddisloc",
+			"big\">  <",
+			"(^  <img.*?\\n)",
+			"(^  <img.*?\\n  </div>\\n)",
+			"^  <img.*?\\n  </div>\\n)",
+			"^  <img.*?\\n  </div)",
+			"^  <img.*?\\n  <.*?\\n)",
+			"paddin",
+			"big-",
+			"big",
+			"#1",
+			"span5",
+			"\"5",
+			"5",
+			"\"",
+			"<iframe",
+			"iframe",
+			"0o",
+			"h1",
+			"25",
+			"25%,",
+			"flash",
+			"img",
+			"5px",
+			"yellow",
+			"@linkColor",
+			"grey",
+			"    </div>\n  </div>\n",
+			"aemap",
+			"</div>",
+			"span ",
+			"codesc",
+			"span3",
+			"target=\"blanc\"",
+			" target=\"blanc\"",
+			"checkbox_",
+			"checkbox",
+			"5",
+			"H",
+			"checkbox_buzzw",
+			"BW",
+			"j",
+			"iconfiles",
+			"myBinary",
+			"read_in_txt_lines",
+			"swissd_meta.contents",
+			"set_buzzgen",
+			"textfield_etext",
+			"};",
+			"new Array()",
+			"var ",
+			"==",
+			"read_in_txt_lines",
+			"comp",
+			"\"+",
+			"// ",
+			"art",
+			"var",
+			"articles",
+			"project_folder_on_drive",
+			"img",
+			"7",
+			"}",
+			"\\ \\ \\ \\ ",
+			"afx/",
+			"afx",
+			"libs",
+			" \""
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"$1- $2",
+			"$1\\t$2",
+			"$1\\t- $2",
+			"prcsXMLv02_placeData",
+			"<div class=\"tile big\">$1</div>",
+			"  ",
+			"",
+			"}",
+			"\"start\":$3$4$1",
+			"[$1]",
+			"\"points\"",
+			"\"ascii\"",
+			"{ ascii",
+			"$1}$2",
+			"$5  $6\\nascii:$6,\\npoints:$2$3",
+			"$5  $6\\nascii:$6,points:$2$3",
+			"$5  $5\\nascii:$6,points:$2$3",
+			"",
+			"\\n",
+			"\"[$1]\"",
+			"$1[$2]()  \\n",
+			"$1 -$3",
+			"$2",
+			"##$1",
+			"",
+			"$1",
+			"\\t",
+			",",
+			"",
+			"settings.buzzgen",
+			"'",
+			"settings",
+			"<a href=\"$2\">$1</a>",
+			"settings",
+			"<a href=\"$2\">$1</a>",
+			"<img src=\"$2\" alt=\"$1\" />",
+			"meta",
+			"meta_debug",
+			"    ",
+			"id=\"tiledistel\"",
+			"\\ \\ \\ \\ ",
+			"groupArray",
+			"Text",
+			"",
+			"\\ \\ \\ \\ ",
+			"\\r",
+			"- ",
+			"theText"
+		],
+		"reverse": false,
+		"show_context": false,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": false
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 118.0
+	},
+	"output.git":
+	{
+		"height": 100.0
+	},
+	"output.vagrant":
+	{
+		"height": 118.0
+	},
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 154.0,
+	"status_bar_visible": true
+}
